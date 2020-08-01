@@ -42,6 +42,5 @@ configure_file ( "pause.png" ${CMAKE_BINARY_DIR} COPYONLY)
 configure_file ( "play.png" ${CMAKE_BINARY_DIR} COPYONLY)
 
 configure_file ( "levels.txt" ${CMAKE_BINARY_DIR} COPYONLY)
-configure_file ( "questions.txt" ${CMAKE_BINARY_DIR} COPYONLY)
 
 configure_file (C:/SFML/SFML-2.5.1/bin/openal32.dll ${CMAKE_BINARY_DIR} COPYONLY)
