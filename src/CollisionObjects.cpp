@@ -20,7 +20,7 @@
 #include "FireStation.h"
 #include "AlcogelShoot.h"
 
-namespace // anonymous namespace — controll all the collision function"
+namespace // anonymous namespace â€” controll all the collision function"
 {
     void PlayerHydrant(GameObject & player,
          GameObject & hydrant){
